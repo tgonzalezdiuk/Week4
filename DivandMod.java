@@ -14,8 +14,7 @@ public class DivandMod
      
          System.out.print("Enter an integer ");
          System.out.print("Enter a second integer ")
-
-         l 
+         
 
 
 
